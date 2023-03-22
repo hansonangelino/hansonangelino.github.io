@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>album</title>
+   	<link>.</link>
+        <generator>jAlbum 30.1</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>NGM2001_02p112</title>
+            <link>slides/NGM2001_02p112.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2001_02p112.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2001_02p112.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2001_02p112.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2001_02p116-7</title>
+            <link>slides/NGM2001_02p116-7.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2001_02p116-7.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2001_02p116-7.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2001_02p116-7.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2001_03p16</title>
+            <link>slides/NGM2001_03p16.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2001_03p16.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2001_03p16.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2001_03p16.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2001_03p33-5</title>
+            <link>slides/NGM2001_03p33-5.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2001_03p33-5.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2001_03p33-5.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2001_03p33-5.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2001_03p42-3</title>
+            <link>slides/NGM2001_03p42-3.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2001_03p42-3.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2001_03p42-3.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2001_03p42-3.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2001_04p102-3</title>
+            <link>slides/NGM2001_04p102-3.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2001_04p102-3.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2001_04p102-3.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2001_04p102-3.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2001_03p40</title>
+            <link>slides/NGM2001_03p40.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2001_03p40.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2001_03p40.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2001_03p40.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2001_04p108-9</title>
+            <link>slides/NGM2001_04p108-9.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2001_04p108-9.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2001_04p108-9.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2001_04p108-9.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2001_04p116-7</title>
+            <link>slides/NGM2001_04p116-7.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2001_04p116-7.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2001_04p116-7.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2001_04p116-7.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2001_04p118-9</title>
+            <link>slides/NGM2001_04p118-9.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2001_04p118-9.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2001_04p118-9.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2001_04p118-9.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2001_04p119</title>
+            <link>slides/NGM2001_04p119.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2001_04p119.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2001_04p119.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2001_04p119.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2001_04TVLoLe</title>
+            <link>slides/NGM2001_04TVLoLe.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2001_04TVLoLe.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2001_04TVLoLe.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2001_04TVLoLe.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2001_07p98-9</title>
+            <link>slides/NGM2001_07p98-9.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2001_07p98-9.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2001_07p98-9.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2001_07p98-9.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2001_07p104-5</title>
+            <link>slides/NGM2001_07p104-5.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2001_07p104-5.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2001_07p104-5.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2001_07p104-5.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2001_07p106-7</title>
+            <link>slides/NGM2001_07p106-7.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2001_07p106-7.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2001_07p106-7.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2001_07p106-7.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2001_08p74-5</title>
+            <link>slides/NGM2001_08p74-5.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2001_08p74-5.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2001_08p74-5.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2001_08p74-5.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2001_08p80</title>
+            <link>slides/NGM2001_08p80.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2001_08p80.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2001_08p80.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2001_08p80.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2001_08p100-1</title>
+            <link>slides/NGM2001_08p100-1.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2001_08p100-1.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2001_08p100-1.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2001_08p100-1.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2002_05p106</title>
+            <link>slides/NGM2002_05p106.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2002_05p106.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2002_05p106.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2002_05p106.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2002_05p107</title>
+            <link>slides/NGM2002_05p107.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2002_05p107.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2002_05p107.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2002_05p107.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2002_05p108-9</title>
+            <link>slides/NGM2002_05p108-9.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2002_05p108-9.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2002_05p108-9.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2002_05p108-9.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2002_05p110-1</title>
+            <link>slides/NGM2002_05p110-1.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2002_05p110-1.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2002_05p110-1.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2002_05p110-1.jpg</guid>
+        </item>
+        <item>
+            <title>NGM2002_05p114-5</title>
+            <link>slides/NGM2002_05p114-5.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM2002_05p114-5.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGM2002_05p114-5.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM2002_05p114-5.jpg</guid>
+        </item>
+        <item>
+            <title>NGS1_001</title>
+            <link>slides/NGS1_001.jpg</link>
+            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGS1_001.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/NGS1_001.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGS1_001.jpg</guid>
+        </item>
+    </channel>
+</rss>

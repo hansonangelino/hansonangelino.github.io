@@ -1,0 +1,26 @@
+/** prevents inheriting from parent styles **/
+
+#non-embedded, .jAlbum img, #Responsive, .jAlbum #jAlbum-footer, .jAlbum #jAlbum-footer p, .jAlbum #jAlbum-content {
+	background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    font-size: 100%;
+    margin: 0;
+    outline: 0 none;
+    padding: 0;
+    vertical-align: baseline;
+    text-align: left;
+    -webkit-box-sizing: content-box;
+    -moz-sizing: content-box;
+    -o-sizing: content-box;
+    box-sizing: content-box;
+}
+
+#non-embedded {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+#non-embedded body {
+    margin: 0;
+}
