@@ -3,250 +3,155 @@
      xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:jalbum="http://jalbum.net/jalbumrss">
     <channel>
-        <title>album</title>
+        <title>街頭攝影 Street Photography </title>
    	<link>.</link>
         <generator>jAlbum 30.1</generator>
-   		<description></description>
+   		<description>丘漢森 - 林家豐</description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
-            <title>NGM2001_02p112</title>
-            <link>slides/NGM2001_02p112.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2001_02p112.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2001_02p112.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2001_02p112.jpg</guid>
+            <title>生意 Business</title>
+            <link>slides/IMG_4273.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 23:41:53 +0800</pubDate>
+            <description>Canon - Canon EOS M10
+(4320 x 2880) - 4.05 MB 
+39 mm
+Manual exposure (ISO 100)
+1/30 sec - f/5.6</description>
+            <media:description type="html">Canon - Canon EOS M10
+(4320 x 2880) - 4.05 MB 
+39 mm
+Manual exposure (ISO 100)
+1/30 sec - f/5.6</media:description>
+            <media:thumbnail url="thumbs/IMG_4273.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_4273.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Sat, 07 Sep 2019 01:36:06 +0800" cameraMake="Canon" cameraModel="Canon EOS M10"/>
+            <guid isPermaLink="false">slides/IMG_4273.JPG</guid>
         </item>
         <item>
-            <title>NGM2001_02p116-7</title>
-            <link>slides/NGM2001_02p116-7.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2001_02p116-7.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2001_02p116-7.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2001_02p116-7.jpg</guid>
+            <title>停一下 Stop for a while</title>
+            <link>slides/IMG_4779.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 23:41:53 +0800</pubDate>
+            <description>Canon - Canon EOS M10
+(4320 x 2880) - 3.18 MB 
+25 mm
+Manual exposure (ISO 200)
+0.6 sec - f/5.0</description>
+            <media:description type="html">Canon - Canon EOS M10
+(4320 x 2880) - 3.18 MB 
+25 mm
+Manual exposure (ISO 200)
+0.6 sec - f/5.0</media:description>
+            <media:thumbnail url="thumbs/IMG_4779.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_4779.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Sat, 07 Sep 2019 04:45:01 +0800" cameraMake="Canon" cameraModel="Canon EOS M10"/>
+            <guid isPermaLink="false">slides/IMG_4779.JPG</guid>
         </item>
         <item>
-            <title>NGM2001_03p16</title>
-            <link>slides/NGM2001_03p16.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2001_03p16.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2001_03p16.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2001_03p16.jpg</guid>
+            <title>公車站 Bus stop</title>
+            <link>slides/IMG_4979.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 23:41:53 +0800</pubDate>
+            <description>Canon - Canon EOS M10
+(4320 x 2880) - 3.52 MB 
+45 mm
+Manual exposure (ISO 200)
+0.5 sec - f/6.3</description>
+            <media:description type="html">Canon - Canon EOS M10
+(4320 x 2880) - 3.52 MB 
+45 mm
+Manual exposure (ISO 200)
+0.5 sec - f/6.3</media:description>
+            <media:thumbnail url="thumbs/IMG_4979.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_4979.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Sat, 07 Sep 2019 05:19:38 +0800" cameraMake="Canon" cameraModel="Canon EOS M10"/>
+            <guid isPermaLink="false">slides/IMG_4979.JPG</guid>
         </item>
         <item>
-            <title>NGM2001_03p33-5</title>
-            <link>slides/NGM2001_03p33-5.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2001_03p33-5.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2001_03p33-5.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2001_03p33-5.jpg</guid>
+            <title>第一步 First step</title>
+            <link>slides/IMG_6456%20%282%29.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 23:41:53 +0800</pubDate>
+            <description>Canon - Canon EOS M10
+(5184 x 2912) - 3 MB 
+21 mm
+Auto exposure (ISO 200)
+1/1600 sec - f/5.6</description>
+            <media:description type="html">Canon - Canon EOS M10
+(5184 x 2912) - 3 MB 
+21 mm
+Auto exposure (ISO 200)
+1/1600 sec - f/5.6</media:description>
+            <media:thumbnail url="thumbs/IMG_6456%20%282%29.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_6456%20%282%29.JPG" width="449" height="800"/>
+            <jalbum:exif originalDate="Wed, 07 Jul 2021 07:36:28 +0800" cameraMake="Canon" cameraModel="Canon EOS M10"/>
+            <guid isPermaLink="false">slides/IMG_6456%20%282%29.JPG</guid>
         </item>
         <item>
-            <title>NGM2001_03p42-3</title>
-            <link>slides/NGM2001_03p42-3.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <title>兒童記憶 Glimpse of memory</title>
+            <link>slides/199071.jpg</link>
+            <pubDate>Tue, 18 Apr 2023 23:41:53 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2001_03p42-3.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2001_03p42-3.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2001_03p42-3.jpg</guid>
+            <media:thumbnail url="thumbs/199071.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/199071.jpg" width="450" height="800"/>
+            <guid isPermaLink="false">slides/199071.jpg</guid>
         </item>
         <item>
-            <title>NGM2001_04p102-3</title>
-            <link>slides/NGM2001_04p102-3.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <title>R.G.B(Red Gray Blue)</title>
+            <link>slides/199070.jpg</link>
+            <pubDate>Tue, 18 Apr 2023 23:41:53 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2001_04p102-3.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2001_04p102-3.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2001_04p102-3.jpg</guid>
+            <media:thumbnail url="thumbs/199070.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/199070.jpg" width="450" height="800"/>
+            <guid isPermaLink="false">slides/199070.jpg</guid>
         </item>
         <item>
-            <title>NGM2001_03p40</title>
-            <link>slides/NGM2001_03p40.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <title>重複 Repetition</title>
+            <link>slides/199069.jpg</link>
+            <pubDate>Tue, 18 Apr 2023 23:41:53 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2001_03p40.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2001_03p40.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2001_03p40.jpg</guid>
+            <media:thumbnail url="thumbs/199069.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/199069.jpg" width="450" height="800"/>
+            <guid isPermaLink="false">slides/199069.jpg</guid>
         </item>
         <item>
-            <title>NGM2001_04p108-9</title>
-            <link>slides/NGM2001_04p108-9.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <title>聚光 Spotlight</title>
+            <link>slides/199068.jpg</link>
+            <pubDate>Tue, 18 Apr 2023 23:41:53 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2001_04p108-9.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2001_04p108-9.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2001_04p108-9.jpg</guid>
+            <media:thumbnail url="thumbs/199068.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/199068.jpg" width="450" height="800"/>
+            <guid isPermaLink="false">slides/199068.jpg</guid>
         </item>
         <item>
-            <title>NGM2001_04p116-7</title>
-            <link>slides/NGM2001_04p116-7.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
+            <title>方向 Direction</title>
+            <link>slides/199067.jpg</link>
+            <pubDate>Tue, 18 Apr 2023 23:41:53 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2001_04p116-7.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2001_04p116-7.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2001_04p116-7.jpg</guid>
+            <media:thumbnail url="thumbs/199067.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/199067.jpg" width="450" height="800"/>
+            <guid isPermaLink="false">slides/199067.jpg</guid>
         </item>
         <item>
-            <title>NGM2001_04p118-9</title>
-            <link>slides/NGM2001_04p118-9.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2001_04p118-9.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2001_04p118-9.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2001_04p118-9.jpg</guid>
-        </item>
-        <item>
-            <title>NGM2001_04p119</title>
-            <link>slides/NGM2001_04p119.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2001_04p119.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2001_04p119.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2001_04p119.jpg</guid>
-        </item>
-        <item>
-            <title>NGM2001_04TVLoLe</title>
-            <link>slides/NGM2001_04TVLoLe.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2001_04TVLoLe.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2001_04TVLoLe.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2001_04TVLoLe.jpg</guid>
-        </item>
-        <item>
-            <title>NGM2001_07p98-9</title>
-            <link>slides/NGM2001_07p98-9.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2001_07p98-9.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2001_07p98-9.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2001_07p98-9.jpg</guid>
-        </item>
-        <item>
-            <title>NGM2001_07p104-5</title>
-            <link>slides/NGM2001_07p104-5.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2001_07p104-5.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2001_07p104-5.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2001_07p104-5.jpg</guid>
-        </item>
-        <item>
-            <title>NGM2001_07p106-7</title>
-            <link>slides/NGM2001_07p106-7.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2001_07p106-7.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2001_07p106-7.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2001_07p106-7.jpg</guid>
-        </item>
-        <item>
-            <title>NGM2001_08p74-5</title>
-            <link>slides/NGM2001_08p74-5.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2001_08p74-5.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2001_08p74-5.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2001_08p74-5.jpg</guid>
-        </item>
-        <item>
-            <title>NGM2001_08p80</title>
-            <link>slides/NGM2001_08p80.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2001_08p80.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2001_08p80.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2001_08p80.jpg</guid>
-        </item>
-        <item>
-            <title>NGM2001_08p100-1</title>
-            <link>slides/NGM2001_08p100-1.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2001_08p100-1.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2001_08p100-1.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2001_08p100-1.jpg</guid>
-        </item>
-        <item>
-            <title>NGM2002_05p106</title>
-            <link>slides/NGM2002_05p106.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2002_05p106.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2002_05p106.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2002_05p106.jpg</guid>
-        </item>
-        <item>
-            <title>NGM2002_05p107</title>
-            <link>slides/NGM2002_05p107.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2002_05p107.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2002_05p107.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2002_05p107.jpg</guid>
-        </item>
-        <item>
-            <title>NGM2002_05p108-9</title>
-            <link>slides/NGM2002_05p108-9.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2002_05p108-9.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2002_05p108-9.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2002_05p108-9.jpg</guid>
-        </item>
-        <item>
-            <title>NGM2002_05p110-1</title>
-            <link>slides/NGM2002_05p110-1.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2002_05p110-1.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2002_05p110-1.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2002_05p110-1.jpg</guid>
-        </item>
-        <item>
-            <title>NGM2002_05p114-5</title>
-            <link>slides/NGM2002_05p114-5.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGM2002_05p114-5.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGM2002_05p114-5.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGM2002_05p114-5.jpg</guid>
-        </item>
-        <item>
-            <title>NGS1_001</title>
-            <link>slides/NGS1_001.jpg</link>
-            <pubDate>Wed, 22 Mar 2023 15:36:35 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/NGS1_001.jpg" width="256" height="192"/>
-            <media:content type="image/jpeg" url="slides/NGS1_001.jpg" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/NGS1_001.jpg</guid>
+            <title>工作 Work</title>
+            <link>slides/IMG_4284.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 23:41:53 +0800</pubDate>
+            <description>Canon - Canon EOS M10
+(4320 x 2880) - 3.08 MB 
+45 mm
+Manual exposure (ISO 200)
+0.01 sec - f/6.3</description>
+            <media:description type="html">Canon - Canon EOS M10
+(4320 x 2880) - 3.08 MB 
+45 mm
+Manual exposure (ISO 200)
+0.01 sec - f/6.3</media:description>
+            <media:thumbnail url="thumbs/IMG_4284.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_4284.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Sat, 07 Sep 2019 01:38:06 +0800" cameraMake="Canon" cameraModel="Canon EOS M10"/>
+            <guid isPermaLink="false">slides/IMG_4284.JPG</guid>
         </item>
     </channel>
 </rss>
