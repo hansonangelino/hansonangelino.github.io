@@ -28,6 +28,25 @@ Manual exposure (ISO 100)
             <guid isPermaLink="false">slides/IMG_4273.JPG</guid>
         </item>
         <item>
+            <title>工作 Work</title>
+            <link>slides/IMG_4284.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 23:41:53 +0800</pubDate>
+            <description>Canon - Canon EOS M10
+(4320 x 2880) - 3.08 MB 
+45 mm
+Manual exposure (ISO 200)
+0.01 sec - f/6.3</description>
+            <media:description type="html">Canon - Canon EOS M10
+(4320 x 2880) - 3.08 MB 
+45 mm
+Manual exposure (ISO 200)
+0.01 sec - f/6.3</media:description>
+            <media:thumbnail url="thumbs/IMG_4284.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_4284.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Sat, 07 Sep 2019 01:38:06 +0800" cameraMake="Canon" cameraModel="Canon EOS M10"/>
+            <guid isPermaLink="false">slides/IMG_4284.JPG</guid>
+        </item>
+        <item>
             <title>停一下 Stop for a while</title>
             <link>slides/IMG_4779.JPG</link>
             <pubDate>Tue, 18 Apr 2023 23:41:53 +0800</pubDate>
@@ -67,7 +86,7 @@ Manual exposure (ISO 200)
         </item>
         <item>
             <title>第一步 First step</title>
-            <link>slides/IMG_6456%20%282%29.JPG</link>
+            <link>slides/IMG_6456.JPG</link>
             <pubDate>Tue, 18 Apr 2023 23:41:53 +0800</pubDate>
             <description>Canon - Canon EOS M10
 (5184 x 2912) - 3 MB 
@@ -79,10 +98,10 @@ Auto exposure (ISO 200)
 21 mm
 Auto exposure (ISO 200)
 1/1600 sec - f/5.6</media:description>
-            <media:thumbnail url="thumbs/IMG_6456%20%282%29.JPG" width="212" height="170"/>
-            <media:content type="image/jpeg" url="slides/IMG_6456%20%282%29.JPG" width="449" height="800"/>
+            <media:thumbnail url="thumbs/IMG_6456.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_6456.JPG" width="449" height="800"/>
             <jalbum:exif originalDate="Wed, 07 Jul 2021 07:36:28 +0800" cameraMake="Canon" cameraModel="Canon EOS M10"/>
-            <guid isPermaLink="false">slides/IMG_6456%20%282%29.JPG</guid>
+            <guid isPermaLink="false">slides/IMG_6456.JPG</guid>
         </item>
         <item>
             <title>兒童記憶 Glimpse of memory</title>
@@ -105,16 +124,6 @@ Auto exposure (ISO 200)
             <guid isPermaLink="false">slides/199070.jpg</guid>
         </item>
         <item>
-            <title>重複 Repetition</title>
-            <link>slides/199069.jpg</link>
-            <pubDate>Tue, 18 Apr 2023 23:41:53 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/199069.jpg" width="212" height="170"/>
-            <media:content type="image/jpeg" url="slides/199069.jpg" width="450" height="800"/>
-            <guid isPermaLink="false">slides/199069.jpg</guid>
-        </item>
-        <item>
             <title>聚光 Spotlight</title>
             <link>slides/199068.jpg</link>
             <pubDate>Tue, 18 Apr 2023 23:41:53 +0800</pubDate>
@@ -125,6 +134,16 @@ Auto exposure (ISO 200)
             <guid isPermaLink="false">slides/199068.jpg</guid>
         </item>
         <item>
+            <title>重複 Repetition</title>
+            <link>slides/199069.jpg</link>
+            <pubDate>Tue, 18 Apr 2023 23:41:53 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/199069.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/199069.jpg" width="450" height="800"/>
+            <guid isPermaLink="false">slides/199069.jpg</guid>
+        </item>
+        <item>
             <title>方向 Direction</title>
             <link>slides/199067.jpg</link>
             <pubDate>Tue, 18 Apr 2023 23:41:53 +0800</pubDate>
@@ -133,25 +152,6 @@ Auto exposure (ISO 200)
             <media:thumbnail url="thumbs/199067.jpg" width="212" height="170"/>
             <media:content type="image/jpeg" url="slides/199067.jpg" width="450" height="800"/>
             <guid isPermaLink="false">slides/199067.jpg</guid>
-        </item>
-        <item>
-            <title>工作 Work</title>
-            <link>slides/IMG_4284.JPG</link>
-            <pubDate>Tue, 18 Apr 2023 23:41:53 +0800</pubDate>
-            <description>Canon - Canon EOS M10
-(4320 x 2880) - 3.08 MB 
-45 mm
-Manual exposure (ISO 200)
-0.01 sec - f/6.3</description>
-            <media:description type="html">Canon - Canon EOS M10
-(4320 x 2880) - 3.08 MB 
-45 mm
-Manual exposure (ISO 200)
-0.01 sec - f/6.3</media:description>
-            <media:thumbnail url="thumbs/IMG_4284.JPG" width="212" height="170"/>
-            <media:content type="image/jpeg" url="slides/IMG_4284.JPG" width="1000" height="667"/>
-            <jalbum:exif originalDate="Sat, 07 Sep 2019 01:38:06 +0800" cameraMake="Canon" cameraModel="Canon EOS M10"/>
-            <guid isPermaLink="false">slides/IMG_4284.JPG</guid>
         </item>
     </channel>
 </rss>
